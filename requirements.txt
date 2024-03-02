@@ -1,0 +1,5 @@
+uvicorn==0.27.1
+diffusers==0.26.3
+fastapi==0.109.2
+pydantic==2.6.1
+accelerate==0.27.2
